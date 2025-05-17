@@ -1,6 +1,6 @@
 # petStoreApiRestAutomatization
 
-Este proyecto se crea con la finalidad de practicar la automatización de servicios REST con el patrón scrennplay, java y gherkin.
+Este proyecto se crea con la finalidad de practicar la automatización de servicios REST con el patrón Screenplay, Java y Gherkin.
 
 ## Contenido.
 - [Descarga](#descarga)
