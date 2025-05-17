@@ -1,6 +1,8 @@
 # petStoreApiRestAutomatization
 
-Este proyecto se crea con la finalidad de practicar la automatización de servicios REST con el patrón Screenplay, Java y Gherkin.
+Este proyecto se crea con la finalidad de practicar la automatización de servicios REST con el patrón ***Screenplay***, la descripción de los escenarios se realizón con lengiaje ***Gherkin*** y como lenguaje de programación se usó ***Java***.
+
+Se utilizó la *api* https://petstore.swagger.io/ para realizar las pruebas.
 
 ## Contenido.
 - [Descarga](#descarga)
